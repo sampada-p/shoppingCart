@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sam.shopping.shoppingCart.ShoppingCartTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.155 s -- in sam.shopping.shoppingCart.ShoppingCartTest
